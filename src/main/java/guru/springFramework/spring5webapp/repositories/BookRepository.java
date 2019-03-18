@@ -7,5 +7,5 @@ import org.springframework.data.repository.CrudRepository;
  * Created by kyrie on 3/17/19.
  */
 public interface BookRepository extends CrudRepository<Book, Long>{
-
+    //JDBC
 }
